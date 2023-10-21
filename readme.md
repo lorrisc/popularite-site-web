@@ -23,10 +23,10 @@ Vous pouvez les installer en utilisant pip :
 ### Exemples des graphiques obtenus
 
 #### 10 sites les plus populaires
-![20 plus populaire](output/full20+.png).
+![20 plus populaire](output/full20+.png)
 
 #### 20 sites les plus populaires
-![50 plus populaire](output/full50+.png).
+![50 plus populaire](output/full50+.png)
 
 #### 200 sites les plus populaires
-![200 plus populaire](output/full200+.png).
+![200 plus populaire](output/full200+.png)
